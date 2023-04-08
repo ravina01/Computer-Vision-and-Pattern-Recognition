@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "string_view": "cpp",
+        "random": "cpp",
+        "functional": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "vector": "cpp",
+        "hash_map": "cpp",
+        "hash_set": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

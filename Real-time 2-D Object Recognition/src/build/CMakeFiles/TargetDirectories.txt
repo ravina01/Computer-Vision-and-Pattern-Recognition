@@ -1,0 +1,3 @@
+/home/ravina/Desktop/OpenCV/ObjectDetection/sample/build/CMakeFiles/rebuild_cache.dir
+/home/ravina/Desktop/OpenCV/ObjectDetection/sample/build/CMakeFiles/edit_cache.dir
+/home/ravina/Desktop/OpenCV/ObjectDetection/sample/build/CMakeFiles/sample.dir

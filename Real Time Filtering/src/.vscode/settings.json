@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "string_view": "cpp",
+        "random": "cpp",
+        "functional": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

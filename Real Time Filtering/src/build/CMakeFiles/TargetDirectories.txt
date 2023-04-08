@@ -1,0 +1,3 @@
+/home/ravina/sample/build/CMakeFiles/rebuild_cache.dir
+/home/ravina/sample/build/CMakeFiles/edit_cache.dir
+/home/ravina/sample/build/CMakeFiles/sample.dir

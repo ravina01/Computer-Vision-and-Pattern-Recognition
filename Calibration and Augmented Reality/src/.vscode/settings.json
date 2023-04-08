@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "string_view": "cpp",
+        "random": "cpp",
+        "functional": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
